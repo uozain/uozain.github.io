@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://uozain.github.io/wcV/wcV.txt
